@@ -1,0 +1,17 @@
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\bin\Debug\netstandard2.0\PDC03M5Exercise01.deps.json
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\bin\Debug\netstandard2.0\PDC03M5Exercise01.dll
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\bin\Debug\netstandard2.0\PDC03M5Exercise01.pdb
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\PDC03M5Exercise01.csproj.AssemblyReference.cache
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\PDC03M5Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\PDC03M5Exercise01.AssemblyInfoInputs.cache
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\PDC03M5Exercise01.AssemblyInfo.cs
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\PDC03M5Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\PDC03M5Exercise01.dll
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\refint\PDC03M5Exercise01.dll
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\PDC03M5Exercise01.pdb
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\ref\PDC03M5Exercise01.dll
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\exercise01.xaml.g.cs
+C:\Users\calvinkent\source\repos\PDC03M5Exercise01\PDC03M5Exercise01\PDC03M5Exercise01\obj\Debug\netstandard2.0\exercise01picker.xaml.g.cs

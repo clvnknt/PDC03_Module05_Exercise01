@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC03M5Exercise01.exercise01picker">
+    <ContentPage.Content>
+        <StackLayout 
+            VerticalOptions="CenterAndExpand" 
+            HorizontalOptions="CenterAndExpand">
+            
+            <Picker Title="Select a phone brand">
+                <Picker.Items>
+                    <x:String>Apple</x:String>
+                    <x:String>POCO</x:String>
+                    <x:String>Samsung</x:String>
+                    <x:String>Xiaomi</x:String>
+                </Picker.Items>
+            </Picker>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
